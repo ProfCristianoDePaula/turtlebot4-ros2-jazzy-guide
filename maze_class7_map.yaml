@@ -1,8 +1,7 @@
-image: maze_class7_map.pgm
+image: map_1777949668.pgm
 mode: trinary
 resolution: 0.050
 origin: [-2.049, -18.028, 0]
 negate: 0
 occupied_thresh: 0.65
 free_thresh: 0.196
-
